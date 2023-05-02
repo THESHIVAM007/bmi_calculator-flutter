@@ -16,7 +16,7 @@ class BMICalculator extends StatelessWidget {
         ),
         canvasColor: Color.fromARGB(255, 0, 0, 5),
         textTheme: TextTheme(
-          bodyMedium: TextStyle(color: Colors.amber),
+          bodyMedium: TextStyle(color: Colors.white),
         ),
       ),
       home: InputPage(),
